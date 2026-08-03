@@ -6,8 +6,16 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehajaiswal2162-star/GitPractical.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/snehajaiswal2162-star/GitPractical/issues"
+  },
+  "homepage": "https://github.com/snehajaiswal2162-star/GitPractical#readme"
 }
